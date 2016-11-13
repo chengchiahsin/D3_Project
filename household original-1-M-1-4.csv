@@ -1,4 +1,4 @@
-﻿ID,year,city,variable,value,
+ID,date,city,variable,amount,cid
 1,2006, 臺灣地區,家庭收支.平均戶內人口數,3.41,A
 2,2006, 新北市,家庭收支.平均戶內人口數,3.28,A
 3,2006, 臺北市,家庭收支.平均戶內人口數,3.34,A
